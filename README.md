@@ -1,10 +1,10 @@
 ###  👨🏻‍💻 About me
 
-- 😄 A undergraduate student in TU and UWE 💝.
+- 😄 A undergraduate student in TU and UWE.
 
 - ✨ Infinite curiosity in magic of Computer Science.
 
-- My now research interests are on Reverse
+- 💣 My now research interests are on Reverse
 
 
 
