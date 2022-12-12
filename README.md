@@ -4,7 +4,7 @@
 
 - ✨ Infinite curiosity in magic of Computer Science.
 
-- 💣 My now research interests are on Reverse
+- 💣 My now research interests are on Reverse Engineering
 
 
 
