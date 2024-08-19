@@ -1,6 +1,6 @@
 ###  👨🏻‍💻 About me
 
-- 😄 A undergraduate student in TU and UWE.
+- 😄 A student in Ant International.
 
 - ✨ Infinite curiosity in magic of Computer Science.
 
