@@ -1,6 +1,6 @@
 ###  👨🏻‍💻 About me
 
-- 😄 A student in Ant International.
+- 😄 (Temporary Removed)
 
 - ✨ Infinite curiosity in magic of Computer Science.
 
