@@ -1,6 +1,6 @@
 ###  👨🏻‍💻 About me
 
-- 😄 (Temporary Removed)
+- 😄 Work at Triniti as AI Agent Developer
 
 - ✨ Infinite curiosity in magic of Computer Science.
 
